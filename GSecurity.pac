@@ -50305,6 +50305,7 @@ function FindProxyForURL(url, host) {
                    shExpMatch(host, "zzhc.vnet.cn") ||
                    shExpMatch(host, "zzqhsrg.ru") ||
                    shExpMatch(host, "zzz.clickbank.net") ||
+                   shExpMatch(host, "r*.googlevideo.com") ||
                    shExpMatch(host, "zzzrtrcm2.com")
 	) {
 	//Random port
